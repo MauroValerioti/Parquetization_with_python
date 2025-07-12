@@ -67,5 +67,6 @@ Working with large datasets is common in data pipelines, analytics, and ETL proc
 This was a quick, practical way to understand how formats like Parquet can make a difference.
 
 ## 📬 Contact
+<img width="451" height="276" alt="image" src="https://github.com/user-attachments/assets/98fd756a-6e67-4e5e-97ad-4abd07b92e06" />
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/maurovalerioti) if you have feedback or want to connect.
