@@ -17,6 +17,10 @@ Key insights:
 - Not all datasets compress equally — data types and structure matter
 - Converting back to CSV ("de-parquetizing") often results in even larger files due to expansion into plain text
 
+<img width="791" height="287" alt="image" src="https://github.com/user-attachments/assets/0cca384a-9b69-4d6b-982a-372cb0c5af6e" />
+<img width="895" height="496" alt="image" src="https://github.com/user-attachments/assets/fb6f4be0-78c6-49c3-beae-bb5cccc3b36d" />
+
+
 ---
 
 ## 📁 Project Structure
@@ -67,6 +71,6 @@ Working with large datasets is common in data pipelines, analytics, and ETL proc
 This was a quick, practical way to understand how formats like Parquet can make a difference.
 
 ## 📬 Contact
-<img width="451" height="276" alt="image" src="https://github.com/user-attachments/assets/98fd756a-6e67-4e5e-97ad-4abd07b92e06" />
+
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/maurovalerioti) if you have feedback or want to connect.
