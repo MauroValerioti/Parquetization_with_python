@@ -2,7 +2,7 @@ import pandas as pd
 import time
 
 # Path to the CSV and Parquet files
-csv_path = r'r..\Datasets\Sales_Final.csv'
+csv_path = r'r..\Datasets\flights.csv'
 parquet_path = csv_path.replace('.csv', '.parquet')
 
 # Read CSV and measure time
